@@ -1,6 +1,6 @@
 ### You are currently chase by the guards. Choose a path now! 
 
-Option 1 : [Turn North](escaped.md)
+Option 1 : [Turn North](escape.md)
 
 Option 2 : [Turn East](caught-by-guard.md) 
 
