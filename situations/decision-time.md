@@ -1,5 +1,5 @@
-Now it is time to make a decision 
+### Now it is time to make a decision 
 
-Option 1: [smack the guard with rock found on the floor](situations/chase-by-guard.md)
+Option 1: [smack the guard with rock found on the floor](chase-by-guard.md)
 
-Option 2: [Ask for food](situations/stay-in-prison.md)
+Option 2: [Ask for food](stay-in-prison.md)
