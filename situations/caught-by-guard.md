@@ -1,3 +1,3 @@
-## You made the decision to turn East. Now you are caught by a guard. You FAIL to escape. 
+## You made the decision to turn East. A guard had knocked you out clean while returning to his duty.
 
 Option 1: [Fail to escape](fail-to-escape.md)
