@@ -3,4 +3,4 @@ All the prisoners that are besides you, want to get out, too. Would you be willi
 
 Option 1: [Rush towards an open window](window.md)
 
-Option 2: [Help other Inmates to excape](chase-by-guard.md)
+Option 2: [Help other inmates to escape](chase-by-guard.md)
