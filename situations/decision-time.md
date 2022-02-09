@@ -2,4 +2,4 @@
 
 Option 1: [Grab the guard and beat him with his baton](chase-by-guard.md)
 
-Option 2: [Demand a early meal](stay-in-prison.md)
+Option 2: [Demand an early meal](stay-in-prison.md)
