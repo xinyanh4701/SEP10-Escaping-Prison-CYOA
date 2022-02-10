@@ -7,19 +7,46 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <style>
-            /* CSS */
+             /*CSS */
             body {
                 text-align: center;
                 background-color: skyblue;
             }
             
             h1 {
-                border: solid #13678A;
+                border: solid #13678A 5px;
+                box-shadow: 0 10px 20px rgba(0,0,0,0.3);
                 margin: 2.5rem;
                 padding: 10px;
-                background-color: white;
+                background-color: white; 
             }
             
+            h1:hover {
+                animation-name: rainbow;
+                animation-duration: 5s;
+                animation-iteration-count: infinite;
+            }
+            
+            @keyframes rainbow {
+                0% {
+                    color: #6666ff; 
+                }
+                10% {
+                    color: #0099ff;
+                }
+                50% {
+                    color: #00ff00;
+                }
+                75% {
+                    color: #ff3399;
+                }
+                100% {
+                    color: #6666ff;
+                }
+            } 
+            
+           
+        
         </style>
         
         <title>Title</title>
@@ -30,7 +57,7 @@
 
       <!--[Restart to find another way to escape](../lock-in-prison.md) link this file to lock-in-prison.md --> 
       
-      <a href="https://github.com/xinyanh4701/SEP10-Escaping-Prison-CYOA/blob/main/observe-surrounding.md"> 
+      <a  href="https://github.com/xinyanh4701/SEP10-Escaping-Prison-CYOA/blob/main/observe-surrounding.md"> 
       Restart to find another way to escape</a>
 
         
